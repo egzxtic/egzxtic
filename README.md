@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Clash+Display&size=25&color=FFFFFF&center=true&vCenter=true&width=500&lines=E+G+Z+X+T+I+C" />
 </p>
 
+```
+Welcome!
+```
+
 ## TOOLS
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
