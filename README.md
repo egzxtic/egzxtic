@@ -3,9 +3,11 @@
 </p>
 
 <h3 align="left">TOOLS:</h3>
+
+```diff
+@@TOOLS@@
 ```
-TOOLS:
-```
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
