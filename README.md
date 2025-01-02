@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Clash+Display&weight=700&size=50&pause=1000&color=4F27DE&background=FF000000&center=true&vCenter=true&width=600&lines=EGZXTIC)](https://git.io/typing-svg)
-<h3 align="center">EGZXTIC</h3>
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Clash+Display&weight=700&size=50&pause=1000&color=4F27DE&background=FF000000&center=true&vCenter=true&width=600&lines=EGZXTIC)](https://git.io/typing-svg)
+</div>
 
 ###
 
