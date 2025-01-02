@@ -2,14 +2,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Clash+Display&size=25&color=FFFFFF&center=true&vCenter=true&width=500&lines=E+G+Z+X+T+I+C" />
 </p>
 
-<h3 align="left">TOOLS:</h3>
+## TOOLS:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-<h3 align="left">LANGUAGE:</h3>
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+
+## LANGUAGE:
 <div align="left">
   <img src="https://cdn.simpleicons.org/lua/2C2D72" height="40" alt="lua logo"  />
   <img width="12" />
@@ -32,8 +34,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="75" height="25" alt="behance logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="75" height="25" alt="twitter logo"  />
 </div>
-
-## VISTOR:
 
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=egzxtic.egzxtic&left_color=black&right_color=black&left_text=views"  />
