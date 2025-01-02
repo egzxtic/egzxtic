@@ -29,7 +29,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=egzxtic&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="100" alt="languages graph"  />
 </div>
 
-``` ```
+``` egzxitc ```
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="75" height="25" alt="discord logo"  />
