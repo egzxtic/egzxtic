@@ -2,14 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Clash+Display&size=25&color=FFFFFF&center=true&vCenter=true&width=500&lines=E+G+Z+X+T+I+C" />
 </p>
 
-## TOOLS:
+## TOOLS
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-## LANGUAGE:
+## LANGUAGE
 <div align="left">
   <img src="https://cdn.simpleicons.org/lua/2C2D72" height="40" alt="lua logo"  />
   <img width="12" />
@@ -25,6 +25,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=egzxtic&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="100" alt="languages graph"  />
 </div>
 
+## SOCIAL MEDIA
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="75" height="25" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="75" height="25" alt="instagram logo"  />
