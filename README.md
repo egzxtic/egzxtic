@@ -1,9 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Clash+Display&weight=600&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=E+G+Z+X+T+I+C)](https://git.io/typing-svg)
 
 <h3 align="left">TOOLS:</h3>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
@@ -13,9 +10,6 @@
 ###
 
 <h3 align="left">LANGUAGE:</h3>
-
-###
-
 <div align="left">
   <img src="https://cdn.simpleicons.org/lua/2C2D72" height="40" alt="lua logo"  />
   <img width="12" />
