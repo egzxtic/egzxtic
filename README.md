@@ -35,5 +35,5 @@
 </div>
 
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=egzxtic.egzxtic&left_color=black&right_color=black&left_text=views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=egzxtic.egzxtic&left_color=black&right_color=black&left_text=visitor" />
 </div>
