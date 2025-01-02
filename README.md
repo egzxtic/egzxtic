@@ -3,11 +3,6 @@
 </p>
 
 <h3 align="left">TOOLS:</h3>
-
-```diff
-@@TOOLS@@
-```
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
@@ -34,7 +29,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=egzxtic&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="100" alt="languages graph"  />
 </div>
 
-###
+``` ```
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="75" height="25" alt="discord logo"  />
