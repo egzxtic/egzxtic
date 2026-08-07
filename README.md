@@ -26,8 +26,6 @@ Welcome!
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
@@ -35,8 +33,6 @@ Welcome!
   <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mastodon" height="40" alt="mastodon logo"  />
 </div>
 
 <div align="center">
