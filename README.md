@@ -6,4 +6,4 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Michroma&size=16&letterSpacing=0%25&duration=2000&pause=1000&color=FFFFFF50&background=FFFFFF00&vCenter=true&width=500&height=25&lines=techstack" />
 </p>
 
-![PROFILE VIEWS](https://komarev.com/ghpvc/?username=egzxtic&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=egzxtic&color=000000&style=for-the-badge&abbreviated=true&base=10000&label=PROFILE+VIEWS)
