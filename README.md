@@ -2,7 +2,17 @@
 
 ## Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=lua,js,css,html,react,figma,vscode,ps,pr,mysql,ai,cloudflare,php&theme=dark&perline=12)
+<div align="center">
+
+<p><strong>Core Interface</strong></p>
+<img src="https://skillicons.dev/icons?i=js,html,css,react,figma,ps&theme=dark&perline=8" alt="Core tech stack" />
+
+<br/>
+
+<p><strong>Systems & Tools</strong></p>
+<img src="https://skillicons.dev/icons?i=lua,mysql,php,cloudflare,vscode,ai,git,github&theme=dark&perline=8" alt="Systems and tools stack" />
+
+</div>
 
 ## Social Media
 
