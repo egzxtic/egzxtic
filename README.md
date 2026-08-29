@@ -1,56 +1,20 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Clash+Display&size=25&color=FFFFFF&center=true&vCenter=true&width=500&lines=E+G+Z+X+T+I+C" />
-</p>
-
-```
-Welcome!
-```
-
-## WORKS WITH
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-</div>
-
-## SOCIAL MEDIA
 <div align="center">
-  <a href="https://dc.skam.club" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="75" height="25" alt="discord logo" />
-  </a>
-  <a href="https://instagram.com/egzxtic" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="75" height="25" alt="instagram logo" />
-  </a>
-  <a href="https://www.youtube.com/@egzxtic" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="75" height="25" alt="youtube logo" />
-  </a>
-  <a href="https://www.behance.net/egzotic" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="75" height="25" alt="behance logo" />
-  </a>
-</div>
 
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=egzxtic.egzxtic&left_color=black&right_color=black&left_text=visitor" />
+<img src="./assets/terminal-header.svg" width="100%" alt="EGZXTIC" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=lua,js,css,html,react,figma,vscode,ps,pr,mysql,ai,cloudflare,php&theme=dark&perline=13" alt="Tech stack" />
+
+<br><br>
+
+<a href="https://dc.skam.club"><img src="https://img.shields.io/badge/DISCORD-070B12?style=for-the-badge&logo=discord&logoColor=00F0FF" alt="Discord" /></a>
+<a href="https://instagram.com/egzxtic"><img src="https://img.shields.io/badge/INSTAGRAM-070B12?style=for-the-badge&logo=instagram&logoColor=FF2A9D" alt="Instagram" /></a>
+<a href="https://www.youtube.com/@egzxtic"><img src="https://img.shields.io/badge/YOUTUBE-070B12?style=for-the-badge&logo=youtube&logoColor=FF2A55" alt="YouTube" /></a>
+<a href="https://www.behance.net/egzotic"><img src="https://img.shields.io/badge/BEHANCE-070B12?style=for-the-badge&logo=behance&logoColor=00F0FF" alt="Behance" /></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=egzxtic&label=SYSTEM%20VISITS&color=00d9ff&style=flat-square" alt="Profile views" />
+
 </div>

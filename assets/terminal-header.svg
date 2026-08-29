@@ -1,0 +1,25 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#05070B"/><stop offset=".52" stop-color="#090E17"/><stop offset="1" stop-color="#030509"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="340" y1="0" x2="860" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00F0FF"/><stop offset=".55" stop-color="#6B7CFF"/><stop offset="1" stop-color="#FF2A9D"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" stroke="#00D9FF" stroke-opacity=".07"/></pattern>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 1H1200" stroke="#FFF" stroke-opacity=".025"/></pattern>
+    <filter id="glow" x="-40%" y="-80%" width="180%" height="260%"><feGaussianBlur stdDeviation="7" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="soft" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="34"/></filter>
+  </defs>
+  <rect x="1" y="1" width="1198" height="358" rx="14" fill="url(#bg)" stroke="#263445" stroke-width="2"/>
+  <rect x="2" y="2" width="1196" height="356" rx="13" fill="url(#grid)"/><rect x="2" y="2" width="1196" height="356" rx="13" fill="url(#scan)"/>
+  <circle cx="258" cy="174" r="92" fill="#00E7FF" fill-opacity=".08" filter="url(#soft)"/><circle cx="940" cy="190" r="105" fill="#FF2A9D" fill-opacity=".07" filter="url(#soft)"/>
+  <path d="M28 86V28H86M1114 28H1172V86M28 274V332H86M1114 332H1172V274" stroke="url(#cyan)" stroke-width="2"/>
+  <path d="M28 115H168L190 93H314M886 267H1010L1032 245H1172" stroke="#00E7FF" stroke-opacity=".32"/>
+  <circle cx="190" cy="93" r="3" fill="#00F0FF"/><circle cx="1032" cy="245" r="3" fill="#FF2A9D"/>
+  <g font-family="Consolas, Monaco, monospace" font-size="14" letter-spacing="2"><text x="48" y="58" fill="#00E7FF">ROOT://EGZXTIC</text><text x="1012" y="58" fill="#5C7188">[ ONLINE ]</text><text x="48" y="316" fill="#405166">00110101 00111000 01011000</text><text x="1026" y="316" fill="#FF2A9D">SYS.01</text></g>
+  <text x="600" y="193" text-anchor="middle" fill="url(#cyan)" filter="url(#glow)" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="800" letter-spacing="18">EGZXTIC</text>
+  <rect x="342" y="221" width="516" height="2" fill="url(#cyan)"/><rect x="487" y="239" width="226" height="1" fill="#50637A"/>
+  <text x="600" y="268" text-anchor="middle" fill="#708399" font-family="Consolas, Monaco, monospace" font-size="13" letter-spacing="7">DIGITAL SYSTEMS</text>
+  <g fill="#00E7FF"><rect x="233" y="179" width="24" height="2"/><rect x="943" y="179" width="24" height="2"/><rect x="245" y="167" width="2" height="26"/><rect x="955" y="167" width="2" height="26"/></g>
+</svg>
