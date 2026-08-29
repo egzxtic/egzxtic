@@ -3,7 +3,14 @@
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,lua,php,mysql,figma&theme=dark&perline=8" width="78" alt="Tech stack icons"/>
+  <img src="https://cdn.simpleicons.org/javascript/FFFFFF" width="72" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/react/FFFFFF" width="72" alt="React" />
+  <img src="https://cdn.simpleicons.org/html5/FFFFFF" width="72" alt="HTML5" />
+  <img src="https://cdn.simpleicons.org/css3/FFFFFF" width="72" alt="CSS3" />
+  <img src="https://cdn.simpleicons.org/lua/FFFFFF" width="72" alt="Lua" />
+  <img src="https://cdn.simpleicons.org/php/FFFFFF" width="72" alt="PHP" />
+  <img src="https://cdn.simpleicons.org/mysql/FFFFFF" width="72" alt="MySQL" />
+  <img src="https://cdn.simpleicons.org/figma/FFFFFF" width="72" alt="Figma" />
 </div>
 
 <br />
