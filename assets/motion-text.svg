@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 220" fill="none">
+  <rect width="1000" height="220" fill="transparent"/>
+  <defs>
+    <clipPath id="typeMask">
+      <rect x="50" y="55" width="0" height="110" rx="2">
+        <animate attributeName="width" values="0;0;900;900;0" dur="4s" repeatCount="indefinite" keyTimes="0;0.2;0.8;0.9;1"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#typeMask)" font-family="Arial, Helvetica, sans-serif" text-anchor="middle" >
+    <text x="500" y="140" fill="#ffffff" font-size="92" font-weight="700" letter-spacing="14" opacity="0.95">
+      E G Z X T I C
+      <animate attributeName="opacity" values="1;0.8;1;0.9;1" dur="1.2s" repeatCount="indefinite" keyTimes="0;0.1;0.2;0.25;1"/>
+      <animate attributeName="y" values="140;139;140;141;140" dur="0.25s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>
