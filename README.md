@@ -3,16 +3,18 @@
 ## Tech Stack
 
 <div align="center">
-
-<p><strong>Core Interface</strong></p>
-<img src="https://skillicons.dev/icons?i=js,html,css,react,figma,ps&theme=dark&perline=8" alt="Core tech stack" />
-
-<br/>
-
-<p><strong>Systems & Tools</strong></p>
-<img src="https://skillicons.dev/icons?i=lua,mysql,php,cloudflare,vscode,ai,git,github&theme=dark&perline=8" alt="Systems and tools stack" />
+<img src="https://img.shields.io/badge/JavaScript-0D111A?style=flat-square&logo=javascript&logoColor=FFFFFF&labelColor=0D111A&color=0D111A" />
+<img src="https://img.shields.io/badge/React-0D111A?style=flat-square&logo=react&logoColor=FFFFFF&labelColor=0D111A&color=0D111A" />
+<img src="https://img.shields.io/badge/HTML%20%26%20CSS-0D111A?style=flat-square&logo=html5&logoColor=FFFFFF&labelColor=0D111A&color=0D111A" />
+<img src="https://img.shields.io/badge/Lua-0D111A?style=flat-square&logo=lua&logoColor=FFFFFF&labelColor=0D111A&color=0D111A" />
+<img src="https://img.shields.io/badge/PHP-0D111A?style=flat-square&logo=php&logoColor=FFFFFF&labelColor=0D111A&color=0D111A" />
+<img src="https://img.shields.io/badge/MySQL-0D111A?style=flat-square&logo=mysql&logoColor=FFFFFF&labelColor=0D111A&color=0D111A" />
+<img src="https://img.shields.io/badge/Figma-0D111A?style=flat-square&logo=figma&logoColor=FFFFFF&labelColor=0D111A&color=0D111A" />
 
 </div>
+
+<br />
+<p align="center" style="color:#8ca0b3; font-size:14px;">minimal stack • focused stack • no clutter</p>
 
 ## Social Media
 
